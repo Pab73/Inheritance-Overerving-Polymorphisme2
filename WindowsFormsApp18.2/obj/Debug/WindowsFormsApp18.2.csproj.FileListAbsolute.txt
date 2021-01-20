@@ -1,0 +1,10 @@
+C:\Users\XYZ\source\repos\WindowsFormsApp18.2\WindowsFormsApp18.2\bin\Debug\WindowsFormsApp18.2.exe.config
+C:\Users\XYZ\source\repos\WindowsFormsApp18.2\WindowsFormsApp18.2\bin\Debug\WindowsFormsApp18.2.exe
+C:\Users\XYZ\source\repos\WindowsFormsApp18.2\WindowsFormsApp18.2\bin\Debug\WindowsFormsApp18.2.pdb
+C:\Users\XYZ\source\repos\WindowsFormsApp18.2\WindowsFormsApp18.2\obj\Debug\WindowsFormsApp18.2.csprojAssemblyReference.cache
+C:\Users\XYZ\source\repos\WindowsFormsApp18.2\WindowsFormsApp18.2\obj\Debug\WindowsFormsApp18._2.Form1.resources
+C:\Users\XYZ\source\repos\WindowsFormsApp18.2\WindowsFormsApp18.2\obj\Debug\WindowsFormsApp18._2.Properties.Resources.resources
+C:\Users\XYZ\source\repos\WindowsFormsApp18.2\WindowsFormsApp18.2\obj\Debug\WindowsFormsApp18.2.csproj.GenerateResource.cache
+C:\Users\XYZ\source\repos\WindowsFormsApp18.2\WindowsFormsApp18.2\obj\Debug\WindowsFormsApp18.2.csproj.CoreCompileInputs.cache
+C:\Users\XYZ\source\repos\WindowsFormsApp18.2\WindowsFormsApp18.2\obj\Debug\WindowsFormsApp18.2.exe
+C:\Users\XYZ\source\repos\WindowsFormsApp18.2\WindowsFormsApp18.2\obj\Debug\WindowsFormsApp18.2.pdb
